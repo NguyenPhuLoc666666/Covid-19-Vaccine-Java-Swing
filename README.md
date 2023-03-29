@@ -33,8 +33,8 @@ Hình 4. 5. Giao diện thêm thông tin mũi tiêm
 Giấy chứng nhận mũi vàng khi người dân tiêm lớn hơn 2 mũi vắc xin.</p> 
 <img src =https://user-images.githubusercontent.com/68956095/228420096-c4ee9eed-e46c-4998-8019-a6208d7898a5.png></img>
 Hình 4.6 1 giao diện tra cứu thông tin chứng nhận màu xanh
-Giấy chứng nhận mũi vàng khi người dân tiêm một 1 vắc xin.
 
+<p>Giấy chứng nhận mũi vàng khi người dân tiêm một 1 vắc xin.</p>
  <img src =https://user-images.githubusercontent.com/68956095/228420109-2b722ad9-b5bc-4572-9f86-0ed836b842b3.png></img>
 Hình 4.6 2 giao diện tra cứu thông tin chứng nhận màu vàng
 
