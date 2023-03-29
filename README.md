@@ -3,7 +3,7 @@ Covid-19-Vaccine-Java-Swing
 
 4.1. Giao diện đăng nhập
 <p>Mô tả: Quản trị viên và nhân viên phải có tài khoản để đăng nhập và sử dụng phần mềm. Sau khi đăng nhập thành công, phần mềm sẽ hiển thị trang chủ với đầy đủ chức năng.</p>
-
+<img src = "https://user-images.githubusercontent.com/68956095/228419803-fd2ca1f5-d9f1-407f-82bc-8a6de8f365b1.png"></img>
 ![image](https://user-images.githubusercontent.com/68956095/228419803-fd2ca1f5-d9f1-407f-82bc-8a6de8f365b1.png)
 Hình 4.1 1 giao diện đăng nhập
  
